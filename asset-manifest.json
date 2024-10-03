@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conway_lab/static/css/main.220ed6c0.css",
+    "main.js": "/conway_lab/static/js/main.0b8c826e.js",
+    "static/js/453.a6422b29.chunk.js": "/conway_lab/static/js/453.a6422b29.chunk.js",
+    "index.html": "/conway_lab/index.html",
+    "static/media/getFetch.cjs": "/conway_lab/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.220ed6c0.css.map": "/conway_lab/static/css/main.220ed6c0.css.map",
+    "main.0b8c826e.js.map": "/conway_lab/static/js/main.0b8c826e.js.map",
+    "453.a6422b29.chunk.js.map": "/conway_lab/static/js/453.a6422b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220ed6c0.css",
+    "static/js/main.0b8c826e.js"
+  ]
+}
