@@ -1,6 +1,4 @@
-# Conway's Game of Life with Dynamic Favicon
-
-This project is an interactive implementation of Conway's Game of Life, featuring a unique dynamic favicon that visualizes the cellular automaton in real-time.
+# Conway's Game of Life (also in the favicon)
 
 ## Features
 
@@ -55,7 +53,3 @@ This project is set up to deploy to GitHub Pages. To deploy:
 
 I am really just messing around for personal amusement, please do not contribute.
 Also I just wanted to brush up on react.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
