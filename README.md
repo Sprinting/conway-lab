@@ -9,7 +9,7 @@ This project is an interactive implementation of Conway's Game of Life, featurin
 
 ## Live Demo
 
-You can view the live demo of this project at: [https://sprinting.github.io/conway_lab](https://sprinting.github.io/conway_lab)
+You can view the live demo of this project at: [https://conway-lab.netlify.app/](https://conway-lab.netlify.app/)
 
 ## Getting Started
 
